@@ -1,0 +1,92 @@
+{
+  "variant": {
+    "module": {
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates",
+      "gradleModulePathName": ":library",
+      "moduleRootFolder": "/Users/s04407/Projects/android-gpuimage/library",
+      "makeFile": "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "cxxFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx",
+      "ndkFolder": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133",
+      "ndkVersion": "19.0.5232133",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmake": {
+        "cmakeExe": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "foundCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/s04407/Projects/android-gpuimage",
+        "sdkFolder": "/Users/s04407/Library/Android/sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "compilerSettingsCacheFolder": "/Users/s04407/Projects/android-gpuimage/.cxx",
+        "cxxFolder": "/Users/s04407/Projects/android-gpuimage/.cxx",
+        "isCmakeBuildCohabitationEnabled": false
+      }
+    },
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86",
+  "jsonFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86",
+  "objFolder": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/release/obj/x86",
+  "buildCommandFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/build_command.txt",
+  "buildOutputFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/build_output.txt",
+  "modelOutputFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/build_generation_state.json",
+    "cacheKeyFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cxx/release/x86"
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/compile_commands.json"
+}

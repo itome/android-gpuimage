@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64 -Dyuv_decoder_EXPORTS --sysroot /Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/android.toolchain.cmake",
+    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/platforms.cmake",
+    "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yuv-decoder-Release-x86": {
+      "buildCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86\" yuv-decoder",
+      "buildType": "release",
+      "toolchain": "4123225932",
+      "abi": "x86",
+      "artifactName": "yuv-decoder",
+      "files": [
+        {
+          "src": "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/yuv-decoder.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/release/obj/x86/libyuv-decoder.so"
+    }
+  },
+  "toolchains": {
+    "4123225932": {
+      "cCompilerExecutable": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

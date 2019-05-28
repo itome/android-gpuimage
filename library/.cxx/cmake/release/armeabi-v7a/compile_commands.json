@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64 -Dyuv_decoder_EXPORTS  --sysroot /Users/s04407/Library/Android/sdk/ndk/19.0.5232133/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o   -c /Users/s04407/Projects/android-gpuimage/library/src/main/cpp/yuv-decoder.c",
+  "file": "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/yuv-decoder.c"
+}
+]

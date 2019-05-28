@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/android.toolchain.cmake",
+    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/platforms.cmake",
+    "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yuv-decoder-Debug-armeabi-v7a": {
+      "artifactName": "yuv-decoder",
+      "buildCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/armeabi-v7a\" yuv-decoder",
+      "abi": "armeabi-v7a",
+      "output": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/armeabi-v7a/libyuv-decoder.so"
+    }
+  }
+}
