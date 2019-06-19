@@ -1,4 +1,11 @@
 # ninja log v5
-# 1560948230943 bf503cd8-f132-464b-9b32-749e45202cc0
-4	87	1560948231	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	b49255bb12e6c9af
-87	101	1560948231	/home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86/libyuv-decoder.so	d0db34ebb4d3ceb3
+# 1560950934641 bf503cd8-f132-464b-9b32-749e45202cc0
+0	33	1560950934	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	b49255bb12e6c9af
+33	42	1560950934	/home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86/libyuv-decoder.so	d0db34ebb4d3ceb3
+# 1560950964883 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560950985768 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560951053362 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560951091676 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560951141517 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560951200708 bf503cd8-f132-464b-9b32-749e45202cc0
+# 1560951224940 bf503cd8-f132-464b-9b32-749e45202cc0

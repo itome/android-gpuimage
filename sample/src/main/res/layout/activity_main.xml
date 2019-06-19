@@ -26,6 +26,14 @@
             android:drawableTop="@android:drawable/ic_menu_camera"
             android:text="Camera"
             tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/button_player"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@android:drawable/ic_media_play"
+            android:text="Player"
+            tools:ignore="HardcodedText" />
     </LinearLayout>
 
 </FrameLayout>

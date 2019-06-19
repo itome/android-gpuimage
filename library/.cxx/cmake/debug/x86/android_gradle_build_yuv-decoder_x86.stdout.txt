@@ -1,3 +1,2 @@
 ninja: Entering directory `/home/itome/Projects/android-gpuimage/library/.cxx/cmake/debug/x86'
-[1/2] Building C object CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o
-[2/2] Linking C shared library /home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86/libyuv-decoder.so
+ninja: no work to do.
