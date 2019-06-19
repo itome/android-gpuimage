@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/android.toolchain.cmake",
-    "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/platforms.cmake",
-    "/Users/s04407/Projects/android-gpuimage/library/src/main/cpp/CMakeLists.txt"
+    "/home/itome/Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/home/itome/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/home/itome/Projects/android-gpuimage/library/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" clean"
+    "/home/itome/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/itome/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" clean"
   ],
-  "buildTargetsCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/home/itome/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/itome/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "yuv-decoder-Debug-x86_64": {
       "artifactName": "yuv-decoder",
-      "buildCommand": "/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" yuv-decoder",
+      "buildCommand": "/home/itome/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/itome/Projects/android-gpuimage/library/.cxx/cmake/debug/x86_64\" yuv-decoder",
       "abi": "x86_64",
-      "output": "/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so"
+      "output": "/home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86_64/libyuv-decoder.so"
     }
   }
 }

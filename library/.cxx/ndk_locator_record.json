@@ -1,9 +1,9 @@
 {
-  "ndkFolder": "/Users/s04407/Library/Android/sdk/ndk/19.0.5232133",
+  "ndkFolder": "/home/itome/Library/Android/sdk/ndk/20.0.5594570",
   "messages": [
     {
       "level": "INFO",
-      "message": "android.ndkVersion from module build.gradle is 19.0.5232133"
+      "message": "android.ndkVersion from module build.gradle is 20.0.5594570"
     },
     {
       "level": "INFO",
@@ -15,19 +15,31 @@
     },
     {
       "level": "INFO",
-      "message": "sdkFolder is /Users/s04407/Library/Android/sdk"
+      "message": "sdkFolder is /home/itome/Library/Android/sdk"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/s04407/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+      "message": "Considering /home/itome/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/s04407/Library/Android/sdk/ndk/19.0.5232133 in SDK ndk folder"
+      "message": "Considering /home/itome/Library/Android/sdk/ndk/19.0.5232133 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Found requested NDK version 19.0.5232133 at /Users/s04407/Library/Android/sdk/ndk/19.0.5232133"
+      "message": "Considering /home/itome/Library/Android/sdk/ndk/19.2.5345600 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/itome/Library/Android/sdk/ndk/20.0.5594570 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected /home/itome/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested NDK version 20.0.5594570 at /home/itome/Library/Android/sdk/ndk/20.0.5594570"
     }
   ]
 }

@@ -5,7 +5,27 @@
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/release/x86/android_gradle_build.json\u0027 was up-to-date"
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2."
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2."
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository."
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/home/itome/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2."
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/home/itome/Projects/android-gpuimage/library/.cxx/cmake/release/x86/android_gradle_build.json\u0027 was up-to-date"
   },
   {
     "level": "INFO",

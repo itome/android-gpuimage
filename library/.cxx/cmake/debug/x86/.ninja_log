@@ -1,0 +1,4 @@
+# ninja log v5
+# 1560948230943 bf503cd8-f132-464b-9b32-749e45202cc0
+4	87	1560948231	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	b49255bb12e6c9af
+87	101	1560948231	/home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/x86/libyuv-decoder.so	d0db34ebb4d3ceb3

@@ -1,20 +1,21 @@
-Executable : /Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+Executable : /home/itome/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
 arguments : 
--H/Users/s04407/Projects/android-gpuimage/library/src/main/cpp
--B/Users/s04407/Projects/android-gpuimage/library/.cxx/cmake/debug/armeabi-v7a
+-H/home/itome/Projects/android-gpuimage/library/src/main/cpp
+-B/home/itome/Projects/android-gpuimage/library/.cxx/cmake/debug/armeabi-v7a
+-GNinja
 -DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/home/itome/Library/Android/sdk/ndk/20.0.5594570
 -DANDROID_PLATFORM=android-16
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/s04407/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/armeabi-v7a
--DCMAKE_BUILD_TYPE=Debug
--DANDROID_NDK=/Users/s04407/Library/Android/sdk/ndk/19.0.5232133
--DCMAKE_CXX_FLAGS=
--DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
--DCMAKE_SYSTEM_VERSION=16
+-DCMAKE_ANDROID_NDK=/home/itome/Library/Android/sdk/ndk/20.0.5594570
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_C_FLAGS=
+-DCMAKE_CXX_FLAGS=
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_ANDROID_NDK=/Users/s04407/Library/Android/sdk/ndk/19.0.5232133
--DCMAKE_TOOLCHAIN_FILE=/Users/s04407/Library/Android/sdk/ndk/19.0.5232133/build/cmake/android.toolchain.cmake
--G Ninja
--DCMAKE_MAKE_PROGRAM=/Users/s04407/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/itome/Projects/android-gpuimage/library/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/home/itome/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-DCMAKE_TOOLCHAIN_FILE=/home/itome/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake
 jvmArgs : 
 
